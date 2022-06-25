@@ -22,7 +22,7 @@ async def start(client, message):
             InlineKeyboardButton('Search කරන්න 🔎', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('Updates ✅', url='https://t.me/Bots_LK'),
-            InlineKeyboardButton('Support ✅ ', url='https://t.me/Block_Updates')
+            InlineKeyboardButton('About ℹ️', callback_data='about')
             ],[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ]]
