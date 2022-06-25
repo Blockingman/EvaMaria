@@ -12,7 +12,7 @@ class script(object):
 ✯ Library: Pyrogram
 ✯ Language: Python 3
 ✯ Database: Mongo
-✯ Server: Heroku
+✯ Server: Azure
 ✯ Status: [ Alive ✅ ]"""
     SOURCE_TXT = """<b>Support Team:</b>
 
