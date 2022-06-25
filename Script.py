@@ -18,11 +18,11 @@ class script(object):
 
 - ඔබට මෙම Bot එක සම්බන්ධව යම්කිසි ගැටලුවක් ඇත්නම් @MahaZonaBot හරහා අපව සම්බන්ධ කරගන්න. 
 
-- Tutorial එක ලබාගැනීම සඳහා /how command එක Bot එකට Send කරන්න.  
+- @AnythingLKBot භාවිතා කරන ඔබට දීර්ඝායු ලැබේවා. Botගෙ link එක Share පාරකුත් දාන්න.  
 
 <b>Games වල Passwords මෙතනින් ගන්න 🔐 👇:</b>
 
-- <a href=https://telegra.ph/Passwords-11-01>CLICK HERE TO SHARE ↗️</a>"""
+- <a href=https://telegra.ph/Passwords-11-01>මෙතන Click කරන්න ↗️</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
